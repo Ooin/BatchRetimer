@@ -3,7 +3,7 @@
 This is a silly quick script that uses alass in linux to resync a set of subtitles for a set of videos.
 
 You'll need:
-  - [Alass][https://github.com/kaegi/alass] binary named alass_linux64
+  - [Alass](https://github.com/kaegi/alass) binary named alass_linux64
   - a set of video files in mkv
   - a set of subtitles for each video file with exactly the same name as the video but with the srt extension
 
